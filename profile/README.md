@@ -13,13 +13,13 @@
 
 치매 예방 기능과 고독한 사람들을 위해 제작된 애플리케이션입니다.
 <td>
-<img width = "200" src = "https://github.com/ImScareddd/.github/assets/127848065/53be41f4-63a6-4c26-acfb-79633e668a52">  
+<img width = "200" src = "https://firebasestorage.googleapis.com/v0/b/flutter-dbcbd.appspot.com/o/1.png?alt=media&token=db3a8476-c97f-4721-915a-5b62f29188cd">  
 </td>
 
 <br>
 
 ## 🔨 Tech Stack
-![image](https://github.com/ImScareddd/.github/assets/127848065/8a140415-4738-41de-8e67-bc28f5345a6f)
+![image](https://firebasestorage.googleapis.com/v0/b/flutter-dbcbd.appspot.com/o/2.png?alt=media&token=1ea36c7a-56b5-4037-8266-4ee7789dd2fd)
 
 
 <br>
@@ -93,7 +93,7 @@ Daily Record :
 ## 📖 API Documentation
 
 ### ER Diagram
-![image](https://github.com/ImScareddd/.github/assets/127848065/14ecc726-e516-4f43-9b2d-d376b4658a77)
+![image](https://firebasestorage.googleapis.com/v0/b/flutter-dbcbd.appspot.com/o/3.png?alt=media&token=10fbb0b8-f999-4cf2-9d57-d93dd47004b3)
 
 ### Google Skills
 
