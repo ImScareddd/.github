@@ -86,6 +86,8 @@ Daily Record :
 
 ## 📱 UI/UX
 
+## 📖 API Documentation
+
 ### ER Diagram
 ![image](https://github.com/ImScareddd/.github/assets/127848065/14ecc726-e516-4f43-9b2d-d376b4658a77)
 
