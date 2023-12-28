@@ -1,7 +1,11 @@
 # 🌙 날랑말랑: 기억을 살려보세요
 
 매일 밤, **날랑말랑**과 함께 기억을 살려보세요. 날랑말랑은 치매와 우울증 예방 서비스로, 일상을 녹음 기능을 사용하여 기록합니다. 또한 기록한 내용을 바탕으로 퀴즈를 제공하여 치매와 우울증 예방에 도움을 줍니다.
-
+## Main Demo Video
+[![Watch the video](https://img.youtube.com/vi/0V3udRQwgNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0V3udRQwgNw)
+## Links
+### [Nallang Mallang BlogLink](https://dksu-space.notion.site/P-8b56f2bd05fd4eebb770d3e0715b87de?pvs=4)   
+### [Nallang Mallang PowerPoint PDF](https://api.cncscore.com/tmp_files/files/Cover_ppt.pdf)
 ### 팀 나무서웡
 김동욱, 강병헌, 송우정, 임정민
 
