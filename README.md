@@ -8,6 +8,17 @@
 ### 프로젝트 주제
 
 치매 예방 기능과 고독한 사람들을 위해 제작된 애플리케이션입니다.
+<td>
+<img width = "200" src = "https://github.com/ImScareddd/.github/assets/127848065/53be41f4-63a6-4c26-acfb-79633e668a52">  
+</td>
+
+<br>
+
+## 🔨 Tech Stack
+
+
+
+<br>
 
 # 💡 개요
 ### 1) 주제 선정 배경
