@@ -4,7 +4,7 @@
 ## Main Demo Video
 [![Watch the video](https://img.youtube.com/vi/0V3udRQwgNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0V3udRQwgNw)
 ## Links
-### [Nallang Mallang BlogLink](https://dksu-space.notion.site/P-8b56f2bd05fd4eebb770d3e0715b87de?pvs=4)   
+### [Nallang Mallang BlogLink](https://dksu-space.notion.site/P-8b56f2bd05fd4eebb770d3e0715b87de?pvs=4)   
 ### [Nallang Mallang PowerPoint PDF](https://api.cncscore.com/tmp_files/files/Cover_ppt.pdf)
 ### 팀 나무서웡
 김동욱, 강병헌, 송우정, 임정민
