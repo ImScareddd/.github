@@ -2,6 +2,7 @@
 아래의 링크에서 apk를 설치할 수 있습니다.
 ##### [apk DownLoad Link](https://drive.google.com/file/d/1BDArxn8Xe1j02iOELIJEnGgJBkn6jabZ/view?usp=sharing)   
 서버가 클라우드에 배포되어 있기 때문에 별도의 테스트 환경 설정은 필요 하지 않습니다
+(구글 로그인 시에 테스트 계정 등록이 필요하다면, dongwook1214@google.com 으로 문의해주세요.)
 
 
 # 🌙 날랑말랑: 기억을 살려보세요
