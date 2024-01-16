@@ -11,7 +11,7 @@
 ## Main Demo Video
 [![Watch the video](https://img.youtube.com/vi/0V3udRQwgNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0V3udRQwgNw)
 ## Links
-### [Nallang Mallang BlogLink](https://azure-fin-9b8.notion.site/2b7c120e5b344b6e888e971ba24c3ebb?pvs=4)   
+### [🌙날랑말랑 자세히 보기](https://azure-fin-9b8.notion.site/2b7c120e5b344b6e888e971ba24c3ebb?pvs=4)   
 
 ### 팀 나무서웡
 김동욱, 강병헌, 송우정, 임정민
