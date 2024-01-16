@@ -11,7 +11,7 @@
 ## Main Demo Video
 [![Watch the video](https://img.youtube.com/vi/0V3udRQwgNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0V3udRQwgNw)
 ## Links
-### [Nallang Mallang BlogLink](https://dksu-space.notion.site/P-8b56f2bd05fd4eebb770d3e0715b87de?pvs=4)   
+### [Nallang Mallang BlogLink](https://azure-fin-9b8.notion.site/2b7c120e5b344b6e888e971ba24c3ebb?pvs=4)   
 ### [Nallang Mallang PowerPoint PDF](https://firebasestorage.googleapis.com/v0/b/flutter-dbcbd.appspot.com/o/%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AF%E1%86%BC.pdf?alt=media&token=be3e3a1d-79e3-4c9e-bca4-7dd77e4a2c58)
 ### 팀 나무서웡
 김동욱, 강병헌, 송우정, 임정민
