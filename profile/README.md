@@ -12,16 +12,10 @@
 [![Watch the video](https://img.youtube.com/vi/0V3udRQwgNw/maxresdefault.jpg)](https://www.youtube.com/watch?v=0V3udRQwgNw)
 ## Links
 ### [Nallang Mallang BlogLink](https://azure-fin-9b8.notion.site/2b7c120e5b344b6e888e971ba24c3ebb?pvs=4)   
-### [Nallang Mallang PowerPoint PDF](https://firebasestorage.googleapis.com/v0/b/flutter-dbcbd.appspot.com/o/%E1%84%82%E1%85%A1%E1%84%86%E1%85%AE%E1%84%89%E1%85%A5%E1%84%8B%E1%85%AF%E1%86%BC.pdf?alt=media&token=be3e3a1d-79e3-4c9e-bca4-7dd77e4a2c58)
+
 ### 팀 나무서웡
 김동욱, 강병헌, 송우정, 임정민
 
-### 프로젝트 주제
-
-치매 예방 기능과 고독한 사람들을 위해 제작된 애플리케이션입니다.
-<td>
-<img width = "200" src = "https://firebasestorage.googleapis.com/v0/b/flutter-dbcbd.appspot.com/o/1.png?alt=media&token=db3a8476-c97f-4721-915a-5b62f29188cd">  
-</td>
 
 <br>
 
