@@ -1,3 +1,5 @@
+# 🌟 이 애플리케이션은 GDSCX알파코 나무톤 대회에서 대상을 수상하였습니다.
+
 # 테스트 환경과 APK 설치
 아래의 링크에서 apk를 설치할 수 있습니다.
 ##### [apk DownLoad Link](https://drive.google.com/file/d/1BDArxn8Xe1j02iOELIJEnGgJBkn6jabZ/view?usp=sharing)   
