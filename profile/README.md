@@ -91,9 +91,6 @@
 
 ## 📖 API Documentation
 
-### ER Diagram
-![image](https://firebasestorage.googleapis.com/v0/b/flutter-dbcbd.appspot.com/o/3.png?alt=media&token=10fbb0b8-f999-4cf2-9d57-d93dd47004b3)
-
 ### Google Skills
 
 - Tensor flow
